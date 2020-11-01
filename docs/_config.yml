@@ -16,7 +16,7 @@
 title: mitsuaki1229.com
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  関連リンクやポートフォリオなどを集めた個人サイト。
+  関連リンクやポートフォリオなどをまとめた個人サイト。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mitsuaki1229.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mitsuaki1229
@@ -24,7 +24,7 @@ github_username:  mitsuaki1229
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 google_analytics: G-84255SFDBS
 plugins:
   - jekyll-feed
