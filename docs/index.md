@@ -13,7 +13,7 @@ layout: default
 
 ### Profile
 
-* [Resume](https://github.com/mitsuaki1229/CurriculumVitae/blob/master/Documents/SkillSheet.md)
+* [Resume](https://github.com/mitsuaki1229/CurriculumVitae/blob/master/README.md)
 
 ### SNS
 
