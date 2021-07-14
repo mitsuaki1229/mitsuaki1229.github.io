@@ -11,10 +11,6 @@ layout: default
 
 ## Links
 
-### Profile
-
-* [Resume](https://github.com/mitsuaki1229/CurriculumVitae/blob/master/README.md)
-
 ### SNS
 
 * [Facebook](https://www.facebook.com/mitsuaki1229)
