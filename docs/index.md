@@ -30,6 +30,7 @@ layout: default
 ### Article
 
 * [Qiita](https://qiita.com/mitsuaki1229)
+* [note](https://note.com/mitsuaki1229/)
 
 ### Other
 
